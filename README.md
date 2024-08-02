@@ -15,11 +15,14 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Screenshots:
 
-1. **Home Screen:** 
-   ![Home Screen](assets/images/ss1.jpg)
+1. **Initial Screen:** 
+   ![Home Screen](assets/images/3.jpg)
+
+2. **Login Screen:** 
+   ![Home Screen](assets/images/1.jpg)
    
-2. **Pharmacy Finder:** 
-   ![Pharmacy Finder](images/pharmacy-finder-screenshot.png)
+3. **SignUp Screen:** 
+   ![Pharmacy Finder](assets/images/2.jpg)
    
 3. **Medicine List:** 
    ![Medicine List](images/medicine-list-screenshot.png)
