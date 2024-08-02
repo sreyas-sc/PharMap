@@ -16,18 +16,20 @@ A few resources to get you started if this is your first Flutter project:
 ## Screenshots:
 
 1. **Initial Screen:** 
-   ![Home Screen](assets/images/3.jpg)
-
-2. **Login Screen:** 
-   ![Home Screen](assets/images/1.jpg)
+   ![Home Screen](assets/images/one.jpg)
    
 3. **SignUp Screen:** 
    ![Pharmacy Finder](assets/images/2.jpg)
+
+3. **Login Screen:** 
+   ![Home Screen](assets/images/3.jpg)
    
-3. **Medicine List:** 
+
+   
+4. **Medicine List:** 
    ![Medicine List](images/medicine-list-screenshot.png)
    
-4. **Reminder Setup:** 
+5. **Reminder Setup:** 
    ![Reminder Setup](images/reminder-setup-screenshot.png)
 
 ## Database Schema:
