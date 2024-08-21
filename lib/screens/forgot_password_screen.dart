@@ -78,7 +78,8 @@ class ResetPasswordScreen extends StatelessWidget {
                     duration: const Duration(milliseconds: 2000),
                     child: TextButton(
                       onPressed: () {
-                        // Navigate back to the login screen
+                        // Code to Navigate back to the login screen
+                        
                         Navigator.pop(context);
                       },
                       child: const Text('Back to Login'),
