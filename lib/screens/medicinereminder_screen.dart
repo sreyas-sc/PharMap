@@ -35,9 +35,7 @@ class _MedicineReminderPageState extends State<MedicineReminderPage> {
     return Container(
       color: Colors.blueAccent,
       child: Scaffold(
-        // appBar: AppBar(
-        //   title: const Text('Medicine Reminder'),
-        // ),
+        
         body: SingleChildScrollView(
           child: Padding(
             padding: const EdgeInsets.all(16.0),
